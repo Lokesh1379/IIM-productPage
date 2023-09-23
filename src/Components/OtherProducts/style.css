@@ -1,0 +1,26 @@
+.others-container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    padding: 10px 0;
+    padding-left: 50px;
+    overflow-x: scroll;
+    border: 2px solid grey;
+}
+
+.other-main-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.others-container::-webkit-scrollbar {
+    display: none;
+}
+
+#product-image {
+    margin: 0 5px;
+}

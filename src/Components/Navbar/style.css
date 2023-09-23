@@ -1,0 +1,36 @@
+.nav-container {
+    width: 100vw;
+    height: 60px;
+    border-bottom: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+
+.logo-container,
+.menu-container {
+    width: 50vw;
+    height: inherit;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.menu-container {
+    width: 50vw;
+    height: inherit;
+    justify-content: right;
+    padding-right: 30px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.links {
+    text-decoration: none;
+    padding: 0 10px;
+}

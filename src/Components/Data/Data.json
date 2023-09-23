@@ -1,0 +1,242 @@
+[
+    {
+        "insurance_Name": "John",
+        "product_Name": "Iphone",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "24",
+        "description": "iPhone is a line of smartphones produced by Apple Inc. that use Apple's own iOS mobile operating system."
+    },
+    {
+        "insurance_Name": "Peter",
+        "product_Name": "Oneplus",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "25",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Alex",
+        "product_Name": "Iqoo",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "27",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Naman",
+        "product_Name": "Samsung",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "30",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Roman",
+        "product_Name": "Realme",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "23",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Chris",
+        "product_Name": "Realme",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "33",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Tony",
+        "product_Name": "Samsung",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "32",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Steve",
+        "product_Name": "Oneplus",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "29",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Mark",
+        "product_Name": "Iqoo",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "25",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Musk",
+        "product_Name": "Samsung",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "26",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Roger",
+        "product_Name": "Iqoo",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "26",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Tom",
+        "product_Name": "Realme",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "27",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Jane",
+        "product_Name": "Oneplus",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "27",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Samantha",
+        "product_Name": "Samsung",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "28",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Raj",
+        "product_Name": "Iqoo",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "28",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Reddy",
+        "product_Name": "Realme",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "28",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Venky",
+        "product_Name": "Samsung",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "22",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Loki",
+        "product_Name": "Oneplus",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "21",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Nayan",
+        "product_Name": "Samsung",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "21",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Ram",
+        "product_Name": "Iqoo",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "22",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Rose",
+        "product_Name": "Realme",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "23",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Jim",
+        "product_Name": "Samsung",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "29",
+        "description": ""
+    },
+    {
+        "insurance_Name": "Charan",
+        "product_Name": "Iqoo",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "20",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Rajesh",
+        "product_Name": "Oneplus",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "30",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Naveen",
+        "product_Name": "Samsung",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "31",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Kiran",
+        "product_Name": "Oneplus",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "27",
+        "description": "A China-based manufacturer of Android smartphones. Introduced in 2014, OnePlus models are unlocked Android smartphones "
+    },
+    {
+        "insurance_Name": "Anil",
+        "product_Name": "Iqoo",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "22",
+        "description": "It has an aluminium frame with a glass back, and has UFS 3.1 for storage. It comes with a quad camera on the rear equipped with a 48mp primary"
+    },
+    {
+        "insurance_Name": "Gopi",
+        "product_Name": "Samsung",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "21",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    },
+    {
+        "insurance_Name": "Balu",
+        "product_Name": "Realme",
+        "claimStatus": "Claimed",
+        "premium": "1000",
+        "age": "22",
+        "description": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li."
+    },
+    {
+        "insurance_Name": "Karthik",
+        "product_Name": "Samsung",
+        "claimStatus": "Pending",
+        "premium": "1000",
+        "age": "34",
+        "description": "Samsung, South Korean company that is one of the world's largest producers of electronic devices"
+    }
+]
